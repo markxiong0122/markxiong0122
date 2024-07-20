@@ -13,13 +13,14 @@
   </a>
 </div>
 
-## Me: 💻🎹👨‍🍳
-- 🏫 I'm a rising 3rd year @ University of Chicago double majoring in CS and Media Art & Design
-- 🔥 I DJ and cook up some beats sometimes
+## 👨‍🍳 Me
+- 🏫 I'm a rising 3rd year @ **University of Chicago** double majoring in **CS** and **Media Art & Design**
+- 🎹 I DJ and cook up some beats sometimes
 - 🥘 I cook (literally): [my food account](https://www.instagram.com/noodles_n_highball?igsh=MTJldzN2dWoxbGRvZg%3D%3D&utm_source=qr)
-- 🕸️ I'm currently contributing to [Chromestatus.com](https://github.com/GoogleChrome/chromium-dashboard)
+- 🕸️ I'm currently contributing to [**Chromestatus.com**](https://github.com/GoogleChrome/chromium-dashboard)
+- 🌱 I'm currently learning **Fastly** and **Rust**
 
-## 🚀Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,6 +28,6 @@
   </a>
 </p>
 
-## 📬Get in Touch
+## 📬 Get in Touch
 - LinkedIn button above!
 - Email: markxiong0122@gmail.com
