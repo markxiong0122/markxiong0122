@@ -14,7 +14,7 @@
 </div>
 
 ## 👨‍🍳 Me
-- 🏫 I'm a rising 3rd year @ **University of Chicago** double majoring in **CS** and **Media Art & Design**
+- 🏫 I'm a 3rd year @ **University of Chicago** double majoring in **CS** and **Media Art & Design**
 - 🎹 I DJ and cook up some beats sometimes
 - 🥘 I cook (literally): [my food account](https://www.instagram.com/noodles_n_highball?igsh=MTJldzN2dWoxbGRvZg%3D%3D&utm_source=qr)
 - 🕸️ I'm currently contributing to [**Chromestatus.com**](https://github.com/GoogleChrome/chromium-dashboard)
