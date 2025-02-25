@@ -18,7 +18,7 @@
 - 🎹 I DJ and cook up some beats sometimes
 - 🥘 I cook (literally): [my food account](https://www.instagram.com/noodles_n_highball?igsh=MTJldzN2dWoxbGRvZg%3D%3D&utm_source=qr)
 - 🕸️ I'm currently contributing to [**Chromestatus.com**](https://github.com/GoogleChrome/chromium-dashboard)
-- 🌱 I'm currently learning **Go** 
+- 🌱 I'm currently learning **Model Context Protocol** 
 
 ## 🚀 Tech Stack
 
