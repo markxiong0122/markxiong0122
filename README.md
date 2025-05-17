@@ -17,7 +17,7 @@
 - 🏫 I'm a 3rd year @ **University of Chicago** double majoring in **CS** and **Media Art & Design**
 - 🎹 I DJ and cook up some beats sometimes
 - 🥘 I cook (literally): [my food account](https://www.instagram.com/noodles_n_highball?igsh=MTJldzN2dWoxbGRvZg%3D%3D&utm_source=qr)
-- 🕸️ Checkout [**snowmap.ai**](https://snowmap.ai)
+- 🕸️ Checkout [**Tripybara**](https://snowmap.ai](https://www.tripybara.com/))
 - 🌱 I'm currently learning **Model Context Protocol** 
 
 ## 🚀 Tech Stack
